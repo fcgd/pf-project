@@ -1,5 +1,5 @@
 type Props = {
-  posts: Posts[];
+  posts: Post[];
 };
 function BlogList({ posts }: Props) {
   return <div>BlogList</div>;
